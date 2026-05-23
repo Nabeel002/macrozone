@@ -35,9 +35,6 @@ Track meals, monitor macros, and share your nutrition data with a clean mobile-f
 <img width="346" height="730" alt="image" src="https://github.com/user-attachments/assets/c7f8f0fc-5241-47b3-b602-2b8652c00a56" />
 
 
-> Add your screenshots inside:
->
-> `assets/screenshots/`
 
 ---
 
