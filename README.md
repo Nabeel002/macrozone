@@ -124,7 +124,7 @@ macrozone/
 
 Nabeel Siddiqui
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Nabeel002
 
 ---
 
