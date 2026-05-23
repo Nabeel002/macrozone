@@ -1,50 +1,148 @@
-# Welcome to your Expo app 👋
+# MacroZone
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern React Native nutrition and macro tracking app built with Expo.
 
-## Get started
+Track meals, monitor macros, and share your nutrition data with a clean mobile-first experience.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## Features
 
-2. Start the app
+- Meal tracking
+- Macro calculations
+- Share meals
+- Clean and responsive UI
+- Built with Expo Router
+- Cross-platform support (Android & iOS)
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo
+- Expo Router
+- TypeScript
+- React Hooks
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## Screenshots
 
-When you're ready, run:
+| Home Screen | Meals |
+|---|---|
+<img width="354" height="746" alt="image" src="https://github.com/user-attachments/assets/7abb6d01-2d33-4eed-8d17-5377dcf3c947" />
+<img width="346" height="730" alt="image" src="https://github.com/user-attachments/assets/c7f8f0fc-5241-47b3-b602-2b8652c00a56" />
+
+
+> Add your screenshots inside:
+>
+> `assets/screenshots/`
+
+---
+
+## Try the App
+
+### Option 1 — Scan QR Code
+
+1. Install Expo Go:
+   - Android/iOS: https://expo.dev/go
+
+2. Scan the QR code below:
+
+<img width="310" height="310" alt="image" src="https://github.com/user-attachments/assets/e07eaeb4-09a2-45bb-853e-f70f83567255" />
+
+
+---
+
+### Option 2 — Expo Link
+
+Open the project directly:
+
+https://expo.dev/
+
+> Replace this with your actual Expo project URL.
+
+---
+
+## Installation
+
+Clone the repository:
 
 ```bash
-npm run reset-project
+git clone https://github.com/YOUR_USERNAME/macrozone.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Go into the project:
 
-## Learn more
+```bash
+cd macrozone
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Install dependencies:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
 
-## Join the community
+Start the Expo development server:
 
-Join our community of developers creating universal apps.
+```bash
+npx expo start
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## Running on Device
+
+### Android
+
+- Install Expo Go
+- Scan the QR code from terminal/browser
+
+### iOS
+
+- Install Expo Go from App Store
+- Scan the QR code using Camera app
+
+---
+
+## Project Structure
+
+```txt
+macrozone/
+├── app/
+├── assets/
+├── components/
+├── styles/
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+## Future Improvements
+
+- Authentication
+- Persistent storage
+- Charts & analytics
+- Dark mode
+- API integration
+- Meal history
+
+---
+
+## Author
+
+Nabeel Siddiqui
+
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## License
+
+MIT License
+
+Feel free to use and modify this project.
