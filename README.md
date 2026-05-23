@@ -40,7 +40,7 @@ Track meals, monitor macros, and share your nutrition data with a clean mobile-f
 
 ## Try the App
 
-### Option 1 — Scan QR Code
+### can QR Code
 
 1. Install Expo Go:
    - Android/iOS: https://expo.dev/go
@@ -50,17 +50,7 @@ Track meals, monitor macros, and share your nutrition data with a clean mobile-f
 <img width="310" height="310" alt="image" src="https://github.com/user-attachments/assets/e07eaeb4-09a2-45bb-853e-f70f83567255" />
 
 
----
 
-### Option 2 — Expo Link
-
-Open the project directly:
-
-https://expo.dev/
-
-> Replace this with your actual Expo project URL.
-
----
 
 ## Installation
 
