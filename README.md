@@ -57,7 +57,7 @@ Track meals, monitor macros, and share your nutrition data with a clean mobile-f
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/macrozone.git
+git clone https://github.com/Nabeel002/macrozone.git
 ```
 
 Go into the project:
